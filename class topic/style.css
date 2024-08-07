@@ -1,0 +1,178 @@
+body{
+    background-color: rgb(241, 196, 142);
+}
+.main{
+    background-color: #efefef;
+    border-radius: 45px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    max-width: 1200px;
+    width: 60%;
+    height: 450px;
+    position: relative;
+    bottom: -35px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rocket{
+    width: 30px;
+    position: relative;
+    left: 40px;
+    bottom: 15px;
+}
+h4{
+    display: inline;
+    position: relative;
+    left: 47px;
+    top: -25px;
+    font-family:sans-serif;
+}
+.btn{
+    background: rgb(247,239,50);
+background: linear-gradient(326deg,rgba(255,97,145,1) 31%, rgb(247, 204, 50) 62%);
+border: none;
+color: white;
+padding: 5px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 30px;
+font-size: 10px;
+position: relative;
+top: -27px;
+left: 55px;
+display: inline;
+font-weight: bold;
+
+}
+.items p{
+    display: inline;
+   margin-left: 10px;
+   position: relative;
+   top: -45px;
+   left: 360px;
+   font-family: sans-serif;
+   font-size: 13px;
+   color: rgb(118, 118, 118);
+
+}
+.btnn{
+    color: white;
+    border: none;
+    background-color: rgb(45, 108, 255);
+    padding: 14px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    position: relative;
+    top: -115px;
+    left: 700px;
+    font-size: 12px;
+}
+.para{
+font-family: sans-serif;
+font-size: 13px;
+position: relative;
+top: -75px;
+left: 650px;
+color: rgb(118, 118, 118);
+}
+.heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    position: relative;
+    left: 40px;
+    bottom: 30px;
+}
+.paraa{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: rgb(118, 118, 118);
+    position: relative;
+    bottom: 45px;
+    left: 40px;
+    line-height: 1.5;
+}
+form {
+/* display: flex; */
+    padding-left: 40px;
+    gap: 10px;
+    margin: 20px 0;
+    margin-top: -45px;
+}
+
+form input {
+    padding: 13px;
+    padding-right: 52px;
+    flex: 1;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    background-color: white;
+}
+.text{
+    position: relative;
+    bottom: 30px;
+}
+form button {
+    color: white;
+    border: none;
+    background-color: rgb(45, 108, 255);
+    padding: 14px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.check{
+    width: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 10px;
+}
+.line{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(118, 118, 118);
+    position: relative;
+    bottom: 42px;
+    left: 68px;
+}
+.girl{
+    position: relative;
+    top: -280px;
+    left: 430px;
+}
+.email{
+    position: relative;
+    top: -360px;
+}
+ol li{
+    display: inline;
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(118, 118, 118);
+    position: relative;
+    left: -5px;
+    top: -76px;
+}
+.boy{
+    width: 40px;
+    position: relative;
+    left: 605px;
+    top: 20px;
+}
+.ques{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    position: relative;
+    left: 650px;
+    bottom: 28px;
+}
+.talk{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    position: relative;
+    left: 650px;
+    bottom: 39px;
+}
